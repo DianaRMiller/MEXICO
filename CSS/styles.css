@@ -1,0 +1,59 @@
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+  background-image: url(http://orig03.deviantart.net/961c/f/2013/191/f/e/background_texture_by_ashleyt123-d6cwoi2.jpg);
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+  color: white;
+}
+
+img.position {
+  float: left;
+}
+
+.introdf {
+  margin: 12px;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: bolder;
+  color: #131313;
+}
+
+p.intro {
+  width:75%;
+  font-style: italic;
+  align-items: center;
+}
+
+li.highlight {
+  font-weight: bold;
+}
+
+ol {
+  font-size: 20px;
+}
+
+span {
+  color: plum;
+  font-style: normal;
+}
+
+.column {
+  width: 400px;
+  float: left;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  margin: 5px;
+  border: 2px solid white;
+  padding: 60px;
+  background-color: gray;
+}
